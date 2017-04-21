@@ -25,3 +25,12 @@ Install docker
 sudo pt-get update
 
 sudo apt-get install docker-ce
+
+
+
+
+Commands
+------------- 
+
+
+Dokcer versionm :
